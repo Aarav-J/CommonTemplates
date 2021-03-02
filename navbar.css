@@ -1,0 +1,53 @@
+
+
+
+
+
+.navbar-link {
+color: #3CBBB1;
+
+
+}
+
+
+.navbar-link:hover {
+	color: #AFF9C9;
+}
+
+.navbar-link:active {
+	color: #AFF9C9;
+}
+
+
+
+.navbar-brand:hover{ 
+color: black;
+
+ }
+
+
+ .btn-primary {
+		background-color: #3CBBB1 !important;
+		border: none !important;
+		padding-right: 1px !important;
+
+ }
+
+ .btn-primary:hover {
+ 	background-color: #AFF9C9 !important;
+ }
+
+ .btn-primary:hover p {
+ 	color: #999999;
+ }
+
+ 
+
+p {
+	display: inline;
+
+}
+
+/*p:hover {
+	color: #999999;
+}*/
